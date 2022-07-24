@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IrwanFicoFar
-- 👀 I’m interested in Coding & robotik
+- 👀 I’m interested in Coding & robotik, also lighting & smarthome system
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
