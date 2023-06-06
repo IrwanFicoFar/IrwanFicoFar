@@ -1,6 +1,7 @@
 <h1 align="center">Hi,  There <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" style="width: 30px; height: 30px;" />
 </h1>
 
+---
 
 ### <p><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Introductions</p>
 
@@ -16,7 +17,9 @@ I'm Software Engineer especially Front-End Enginner from  Indonesia <img src='ht
   - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="20" width="30" /> : [Instagram](https://www.instagram.com/irwan_fico_far/)
   - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="20" width="30" /> : [LinkedIn](https://www.linkedin.com/in/irwan-hadi-b7775a126/)
 
+---
 
+---
 
 ### 📚 Languages and Tools:
 
@@ -34,11 +37,15 @@ I'm Software Engineer especially Front-End Enginner from  Indonesia <img src='ht
    <a href="https://whimsical.com/" target="_blank">  <img src="https://i.pinimg.com/originals/ea/2a/b2/ea2ab287b40acfe28348c71eb780d11c.png" alt="whimsical" width="40" height="40"/> </a> 
      <a href="https://headlessui.com/" target="_blank">  <img src="https://seeklogo.com/images/H/headless-ui-logo-034B045C5C-seeklogo.com.png" alt="headless ui" width="40" height="40"/> </a> 
  </p>
+ 
+ ---
+ 
+ ---
 
 
 ### 💻 GitHub Statistics:
 
 ![IrwanFicoFar GitHub stats](https://github-readme-stats.vercel.app/api?username=IrwanFicoFar&show_icons=true&theme=white)
 
-
+---
 
