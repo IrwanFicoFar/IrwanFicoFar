@@ -4,10 +4,9 @@
 
 ### <p><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Introductions</p>
 
-I'm Irwan, Software Engineer from  Lombok, NTB-Indonesia <img src='https://www.freepnglogos.com/uploads/bendera-merah-putih-png/classic-bendera-indonesia-merah-putih-download-png-30.png' style='width: 25px; height: auto;'/>,  currently living in  jakarta.
+I'm Junior Software Engineer from  Indonesia <img src='https://www.freepnglogos.com/uploads/bendera-merah-putih-png/classic-bendera-indonesia-merah-putih-download-png-30.png' style='width: 25px; height: auto;'/>.
 
-
-- 🌱 I’m currently learning Coding specially in react with typescript 
+- 🌱 I’m currently learning Coding, especially in react with typescript 
 - 👀 I’m interested in Coding & robotik, also lighting & smarthome system
     
     
