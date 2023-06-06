@@ -19,8 +19,6 @@ I'm Software Engineer especially Front-End Enginner from  Indonesia <img src='ht
 
 ---
 
----
-
 ### 📚 Languages and Tools:
 
 <p align="left">
@@ -39,9 +37,6 @@ I'm Software Engineer especially Front-End Enginner from  Indonesia <img src='ht
  </p>
  
  ---
- 
- ---
-
 
 ### 💻 GitHub Statistics:
 
