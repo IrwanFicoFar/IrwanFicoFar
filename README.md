@@ -3,6 +3,8 @@
 
 <h3 align="left">:gear: GitHub Statistics:</h3>
 
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Introductions</h1>
+
 ![IrwanFicoFar GitHub stats](https://github-readme-stats.vercel.app/api?username=IrwanFicoFar&show_icons=true&theme=white)
 
 
