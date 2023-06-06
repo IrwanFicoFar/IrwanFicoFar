@@ -4,7 +4,7 @@
 
 ### <p><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Introductions</p>
 
-I'm Software Engineer from  Indonesia <img src='https://www.freepnglogos.com/uploads/bendera-merah-putih-png/classic-bendera-indonesia-merah-putih-download-png-30.png' style='width: 25px; height: auto;'/>.
+I'm Software Engineer especially Front-End Enginner from  Indonesia <img src='https://www.freepnglogos.com/uploads/bendera-merah-putih-png/classic-bendera-indonesia-merah-putih-download-png-30.png' style='width: 25px; height: auto;'/>.
 
 - 🌱 I’m currently learning Coding, especially in react with typescript 
 - 👀 I’m interested in Coding & robotik, also lighting & smarthome system
