@@ -12,10 +12,10 @@ I'm Irwan, Software Engineer from  Lombok, NTB-Indonesia <img src='https://www.f
     
     
     
-### :sparkles: Contact Me
-- 📫 How to reach me:
-    - 📷 :[Instagram@Irwan_Fico_Far](https://www.instagram.com/irwan_fico_far/)
-    - 🚀 :[LinkedIn@Irwan](https://www.linkedin.com/in/irwan-hadi-b7775a126/)
+### :sparkles: Contact Me:
+
+  - <img src ='https://w7.pngwing.com/pngs/477/609/png-transparent-logo-computer-icons-instagram-logo-instagram-logo-miscellaneous-text-trademark.png' alt='ig'> :[Instagram@Irwan_Fico_Far](https://www.instagram.com/irwan_fico_far/)
+  - 🚀 :[LinkedIn@Irwan](https://www.linkedin.com/in/irwan-hadi-b7775a126/)
 
 
 
