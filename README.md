@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<h3 align="left">:gear: GitHub Analytics:</h3>
+<h3 align="left">:gear: GitHub Statistics:</h3>
 
 ![IrwanFicoFar GitHub stats](https://github-readme-stats.vercel.app/api?username=IrwanFicoFar&show_icons=true&theme=white)
 
