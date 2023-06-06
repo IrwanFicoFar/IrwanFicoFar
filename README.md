@@ -4,7 +4,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+
+<h3 align="left">:gear: GitHub Analytics:</h3>
+<div>
 ![IrwanFicoFar GitHub stats](https://github-readme-stats.vercel.app/api?username=IrwanFicoFar&show_icons=true&theme=white)
+</div>
+
 
 <!---
 IrwanFicoFar/IrwanFicoFar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
