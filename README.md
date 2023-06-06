@@ -4,13 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<h3 align="left">:gear: GitHub Analytics:</h3>
-<div align="center">
-  <a href="https://github.com/IrwanFicoFar">
-    <img src="https://github-readme-stats.vercel.app/api?username=IrwanFicoFar4&show_icons=true&include_all_commits=true&count_private=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Commit Stats"/>
-  </a>
-  
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=
+ IrwanFicoFar&theme=radical)
 
 <!---
 IrwanFicoFar/IrwanFicoFar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
