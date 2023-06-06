@@ -5,13 +5,16 @@
 
 I'm Irwan, Software Engineer from  Lombok, NTB-Indonesia <img src='https://www.freepnglogos.com/uploads/bendera-merah-putih-png/classic-bendera-indonesia-merah-putih-download-png-30.png' style='width: 25px; height: auto;'/>,  currently living in  jakarta.
 
+
 - 🌱 I’m currently learning Coding specially in react with typescript 
 - 👀 I’m interested in Coding & robotik, also lighting & smarthome system
+    
     
 ### :sparkles: Contact Me
 - 📫 How to reach me:
     - 📷 :[Instagram@Irwan_Fico_Far](https://www.instagram.com/irwan_fico_far/)
     - 🚀 :[LinkedIn@Irwan](https://www.linkedin.com/in/irwan-hadi-b7775a126/)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -25,7 +28,9 @@ I'm Irwan, Software Engineer from  Lombok, NTB-Indonesia <img src='https://www.f
    <a href="https://tailwindcss.com/" target="_blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/120px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" height="40"/> </a>
    <a href="https://vitejs.dev/" target="_blank">  <img  src="https://vitejs.dev/logo-with-shadow.png" alt="vitejs" width="40" height="40"/> </a> 
    <a href="https://figma.com/" target="_blank">  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/figma_logo_icon_170157.png" alt="figma" width="40" height="40"/> </a> 
-   <a href="https://whimsical.com/" target="_blank">  <img src="https://i.pinimg.com/originals/ea/2a/b2/ea2ab287b40acfe28348c71eb780d11c.png" alt="figma" width="40" height="40"/> </a> 
+   <a href="https://whimsical.com/" target="_blank">  <img src="https://i.pinimg.com/originals/ea/2a/b2/ea2ab287b40acfe28348c71eb780d11c.png" alt="whimsical" width="40" height="40"/> </a> 
+     <a href="https://headlessui.com/" target="_blank">  <img src="https://seeklogo.com/images/H/headless-ui-logo-034B045C5C-seeklogo.com.png" alt="headless ui" width="40" height="40"/> </a> 
+   
  </p>
 
 
