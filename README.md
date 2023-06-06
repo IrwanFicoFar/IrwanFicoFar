@@ -40,7 +40,9 @@ I'm Software Engineer especially Front-End Enginner from  Indonesia <img src='ht
 
 ### 💻 GitHub Statistics:
 
+<div align='center'> 
 ![IrwanFicoFar GitHub stats](https://github-readme-stats.vercel.app/api?username=IrwanFicoFar&show_icons=true&theme=white)
+</div>
 
 ---
 
