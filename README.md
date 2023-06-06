@@ -7,7 +7,15 @@ I'm Irwan, Software Engineer from  Lombok, NTB-Indonesia <img src='https://www.f
 
 - 🌱 I’m currently learning Coding specially in react with typescript 
 - 👀 I’m interested in Coding & robotik, also lighting & smarthome system
-- 📫 How to reach me 
+
+
+### :sparkles: My Followers
+
+- 📫 How to reach me:
+    - :octocat:  :[Github@IrwanFicoFar](https://github.com/IrwanFicoFar/)
+    - 📷 :[Instagram@Irwan_Fico_Far](https://www.instagram.com/irwan_fico_far/)
+    - 🚀 :[LinkedIn@Irwan](https://www.linkedin.com/in/irwan-hadi-b7775a126/)
+
   
 - 💞️ I’m looking to collaborate with you ...
 
