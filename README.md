@@ -14,7 +14,7 @@ I'm Irwan, Software Engineer from  Lombok, NTB-Indonesia <img src='https://www.f
     
 ### :sparkles: Contact Me:
 
-  - <img src ='https://w7.pngwing.com/pngs/477/609/png-transparent-logo-computer-icons-instagram-logo-instagram-logo-miscellaneous-text-trademark.png' alt='ig'> :[Instagram@Irwan_Fico_Far](https://www.instagram.com/irwan_fico_far/)
+  - <a href="https://instagram.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/477/609/png-transparent-logo-computer-icons-instagram-logo-instagram-logo-miscellaneous-text-trademark.png" alt="ig" width="20" height="20"/> </a>  :[Instagram@Irwan_Fico_Far](https://www.instagram.com/irwan_fico_far/)
   - 🚀 :[LinkedIn@Irwan](https://www.linkedin.com/in/irwan-hadi-b7775a126/)
 
 
