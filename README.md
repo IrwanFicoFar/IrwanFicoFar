@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-<h3 align="left">:gear: GitHub Analytics:</h3>
+
 ![IrwanFicoFar GitHub stats](https://github-readme-stats.vercel.app/api?username=IrwanFicoFar&show_icons=true&theme=white)
 
 
