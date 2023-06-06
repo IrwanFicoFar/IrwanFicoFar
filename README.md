@@ -35,7 +35,7 @@ I'm Irwan, Software Engineer from  Lombok, NTB-Indonesia <img src='https://www.f
 
 
 
-## 💻 <h3 align="left">:gear: GitHub Statistics:</h3>
+## 💻 GitHub Statistics:
 
 
 ![IrwanFicoFar GitHub stats](https://github-readme-stats.vercel.app/api?username=IrwanFicoFar&show_icons=true&theme=white)
