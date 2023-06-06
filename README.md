@@ -8,15 +8,14 @@ I'm Irwan, Software Engineer from  Lombok, NTB-Indonesia <img src='https://www.f
 - 🌱 I’m currently learning Coding specially in react with typescript 
 - 👀 I’m interested in Coding & robotik, also lighting & smarthome system
 
-
+ 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank">    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank">  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank">  </p>
+    
 ### :sparkles: Contact Me
-
-    - :octocat:  :[Github@IrwanFicoFar](https://github.com/IrwanFicoFar/)
+- 📫 How to reach me:
     - 📷 :[Instagram@Irwan_Fico_Far](https://www.instagram.com/irwan_fico_far/)
     - 🚀 :[LinkedIn@Irwan](https://www.linkedin.com/in/irwan-hadi-b7775a126/)
-
-  
-- 💞️ I’m looking to collaborate with you ...
 
 
 
