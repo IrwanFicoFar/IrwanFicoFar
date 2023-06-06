@@ -14,8 +14,8 @@ I'm Irwan, Software Engineer from  Lombok, NTB-Indonesia <img src='https://www.f
     
 ### :sparkles: Contact Me:
 
-  - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /> :[Instagram@Irwan_Fico_Far](https://www.instagram.com/irwan_fico_far/)
-  - 🚀 :[LinkedIn@Irwan](https://www.linkedin.com/in/irwan-hadi-b7775a126/)
+  - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /> : [irwan_fico_far](https://www.instagram.com/irwan_fico_far/)
+  - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /> :[Irwan](https://www.linkedin.com/in/irwan-hadi-b7775a126/)
 
 
 
