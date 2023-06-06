@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=
- IrwanFicoFar&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IrwanFicoFar&theme=radical)
 
 <!---
 IrwanFicoFar/IrwanFicoFar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
