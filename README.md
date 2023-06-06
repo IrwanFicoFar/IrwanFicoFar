@@ -3,7 +3,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Introductions</h1>
 
-I'm Irwan, Software Engineer from  Lombok, NTB-Indonesia <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAADFBMVEX////tHCTsAA32paeadC+7AAAA20lEQVR4nO3QsRGAQAzAsAD770wf139QSBP4PBfbfB3wQ56UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVJzs83DNgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABzzAnoGZg5GBxcoAAAAAElFTkSuQmCC.png' style='width: 25px; height: auto;'/>,  currently living in  jakarta.
+I'm Irwan, Software Engineer from  Lombok, NTB-Indonesia <img src='https://www.freepnglogos.com/uploads/bendera-merah-putih-png/classic-bendera-indonesia-merah-putih-download-png-30.png' style='width: 25px; height: auto;'/>,  currently living in  jakarta.
 
 - 🌱 I’m currently learning Coding specially in react with typescript 
 - 👀 I’m interested in Coding & robotik, also lighting & smarthome system
