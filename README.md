@@ -16,7 +16,8 @@ I'm Irwan, Software Engineer from  Lombok, NTB-Indonesia <img src='https://www.f
     - 🚀 :[LinkedIn@Irwan](https://www.linkedin.com/in/irwan-hadi-b7775a126/)
 
 
-<h3 align="left">Languages and Tools:</h3>
+## 📚 Languages and Tools:
+
 <p align="left">
   <a href="https://html5up.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
    <a href="https://www.w3schools.com/css/" target="_blank">
@@ -31,7 +32,6 @@ I'm Irwan, Software Engineer from  Lombok, NTB-Indonesia <img src='https://www.f
    <a href="https://whimsical.com/" target="_blank">  <img src="https://i.pinimg.com/originals/ea/2a/b2/ea2ab287b40acfe28348c71eb780d11c.png" alt="whimsical" width="40" height="40"/> </a> 
      <a href="https://headlessui.com/" target="_blank">  <img src="https://seeklogo.com/images/H/headless-ui-logo-034B045C5C-seeklogo.com.png" alt="headless ui" width="40" height="40"/> </a> 
  </p>
-
 
 
 ## 💻 GitHub Statistics:
