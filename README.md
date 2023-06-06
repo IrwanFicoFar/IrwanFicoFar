@@ -6,7 +6,7 @@
 
 <h3 align="left">:gear: GitHub Analytics:</h3>
 <div align="center">
-  <a href="https://github.com/projack14">
+  <a href="https://github.com/IrwanFicoFar">
     <img src="https://github-readme-stats.vercel.app/api?username=IrwanFicoFar4&show_icons=true&include_all_commits=true&count_private=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Commit Stats"/>
   </a>
   
