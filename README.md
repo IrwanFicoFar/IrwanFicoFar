@@ -8,7 +8,7 @@
 
 I'm Software Engineer especially Front-End Enginner from  Indonesia <img src='https://www.freepnglogos.com/uploads/bendera-merah-putih-png/classic-bendera-indonesia-merah-putih-download-png-30.png' style='width: 25px; height: auto;'/>.
 
-- 🌱 I’m currently learning Coding, especially in react with typescript 
+- 🌱 I’m currently able to build platform, especially in react with typescript 
 - 👀 I’m interested in Coding & robotik, also lighting & smarthome system
     
     
