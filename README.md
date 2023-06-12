@@ -12,16 +12,16 @@ I'm Software Engineer especially Front-End Enginner from  NTB-Indonesia <img src
     
     
     
-### :sparkles: Contact Me:
-
-<p margin-left='20px'>
+### :sparkles: Contact Me: <p margin-left='20px'>
 <a href="discordapp.com/users/755691189499592815">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/irwan-hadi-b7775a126/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-</p><br>
+</p>
+
+<br>
 
 ---
 
