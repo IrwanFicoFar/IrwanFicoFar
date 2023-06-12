@@ -15,9 +15,12 @@ I'm Software Engineer especially Front-End Enginner from  NTB-Indonesia <img src
     
 ### :sparkles: Contact Me:
 
-  - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="20" width="30" /> : [Instagram](https://www.instagram.com/irwan_fico_far/)
-  - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="20" width="30" /> : [LinkedIn](https://www.linkedin.com/in/irwan-hadi-b7775a126/)
-
+<a href="discordapp.com/users/755691189499592815">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://www.linkedin.com/in/irwan-hadi-b7775a126/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 ---
 
