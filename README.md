@@ -14,7 +14,7 @@ I'm Software Engineer especially Front-End Enginner from  NTB-Indonesia <img src
     
 ### :sparkles: Contact Me:
 
-<p>
+<p margin-left='20px'>
 <a href="discordapp.com/users/755691189499592815">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
