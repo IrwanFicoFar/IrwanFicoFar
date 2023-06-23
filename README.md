@@ -5,20 +5,20 @@
 
 ### <p><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Introductions</p>
 
-I'm Software Engineer especially Front-End Enginner from  NTB-Indonesia <img src='https://www.freepnglogos.com/uploads/bendera-merah-putih-png/classic-bendera-indonesia-merah-putih-download-png-30.png' style='width: 25px; height: auto;'/>. 
+I'm Software Engineer especially Front-End Engineer from  NTB-Indonesia <img src='https://www.freepnglogos.com/uploads/bendera-merah-putih-png/classic-bendera-indonesia-merah-putih-download-png-30.png' style='width: 25px; height: auto;'/>. 
 
-- 🌱 I’m currently able to build platform, especially in react with typescript 
-- 👀 I’m interested in Coding & robotik, also lighting & smarthome system
+- 🌱 I’m currently able to build platforms, especially in react with typescript 
+- 👀 I’m interested in Coding & robotics, also lighting & smart home system
     
     
     
 ### :sparkles: Contact Me: 
 <p>
     <a href="discordapp.com/users/755691189499592815">
-      <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+      <img align="left" alt="Irwan's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
     </a>
     <a href="https://www.linkedin.com/in/irwan-hadi-b7775a126/">
-      <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+      <img align="left" alt="Irwan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
     </a>
 </p>
 
