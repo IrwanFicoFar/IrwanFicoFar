@@ -15,10 +15,7 @@ I'm Software Engineer especially Front-End Engineer from  NTB-Indonesia <img src
 ### :sparkles: Contact Me: 
 <p>
     <a href="discordapp.com/users/755691189499592815">
-      <img align="left" alt="Irwan's Discord" width="22px" src="https://dcbadge.vercel.app/api/shield/755691189499592815"/>
-    </a>
-    <a href="https://www.linkedin.com/in/irwan-hadi-b7775a126/">
-      <img align="left" alt="Irwan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+      <img align="left" alt="Irwan's Discord" src="https://dcbadge.vercel.app/api/shield/755691189499592815"/>
     </a>
 </p>
 
