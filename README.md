@@ -14,12 +14,7 @@ I'm Software Engineer especially Front-End Engineer from  NTB-Indonesia <img src
     
 ### :sparkles: Contact Me: 
 ![](https://dcbadge.vercel.app/api/shield/755691189499592815)
-<div>
-    ![](https://dcbadge.vercel.app/api/shield/755691189499592815)
-<!--     <a href="discordapp.com/users/755691189499592815">
-     
-    </a> -->
-</div>
+
 
 <br>
 
