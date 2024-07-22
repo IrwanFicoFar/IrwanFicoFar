@@ -44,7 +44,7 @@ I'm Software Engineer especially Front-End Engineer from  NTB-Indonesia <img src
 
 ### 💻 GitHub Statistics:
 
-<div align='center'> 
+<div> 
     <a href="https://github.com/IrwanFicoFar">
     <img src="https://github-readme-stats.vercel.app/api?username=IrwanFicoFar&show_icons=true&theme=black" alt='github statistics'/>
   </a>
@@ -54,7 +54,7 @@ I'm Software Engineer especially Front-End Engineer from  NTB-Indonesia <img src
 
 ### 💻 GitHub Statistics:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrwanFicoFar&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
