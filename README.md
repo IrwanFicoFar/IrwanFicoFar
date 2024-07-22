@@ -54,13 +54,7 @@ I'm Software Engineer especially Front-End Engineer from  NTB-Indonesia <img src
 
 ### 💻Language Statistics:
 
-<div align='center'> 
-    <a href="https://github.com/IrwanFicoFar">
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrwanFicoFar&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-  </a>
-</div>
-
- 
 
 ---
 
