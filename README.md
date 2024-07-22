@@ -48,12 +48,11 @@ I'm Software Engineer especially Front-End Engineer from  NTB-Indonesia <img src
     <a href="https://github.com/IrwanFicoFar">
     <img src="https://github-readme-stats.vercel.app/api?username=IrwanFicoFar&show_icons=true&theme=black" alt='github statistics'/>
   </a>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrwanFicoFar&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
 
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrwanFicoFar&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
