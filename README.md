@@ -56,9 +56,9 @@ I'm Software Engineer especially Front-End Engineer from  NTB-Indonesia <img src
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrwanFicoFar&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrwanFicoFar&layout=donut-vertical)](https://github.com/IrwanFicoFar/github-readme-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrwanFicoFar&layout=donut)](https://github.com/IrwanFicoFar/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IrwanFicoFar)](https://github.com/IrwanFicoFar/github-readme-stats&layout=compact)
 
 ---
 
