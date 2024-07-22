@@ -58,7 +58,7 @@ I'm Software Engineer especially Front-End Engineer from  NTB-Indonesia <img src
 
 ---
 
-[![Harlok's WakaTime stats](https://github.com/IrwanFicoFar/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IrwanFicoFar)]
 
 ---
 
