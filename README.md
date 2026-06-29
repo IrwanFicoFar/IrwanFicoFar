@@ -113,7 +113,7 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=IrwanFicoFar&theme=discord&no-frame=true&row=1&column=7"
+    src="[https://github-profile-trophy.vercel.app/?username=IrwanFicoFar](https://github-profile-trophy-gamma.vercel.app/?username=IrwanFicoFar&...)"
     alt="GitHub Trophies"
   />
 </p>
