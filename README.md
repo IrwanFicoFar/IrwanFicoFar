@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Irwan 👋</h1>
 
 <p align="center">
-  <b>Software Engineer</b> · Front-End Specialist · NTB, Indonesia 🇮🇩
+  <b>Software Engineer</b> · Front-End Specialist · NTB, Indonesia 🇮🇩 
 </p>
 
 <p align="center">
